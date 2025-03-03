@@ -1,10 +1,10 @@
 # HR Employee Lookup
 
-##Overview
+## Overview
 
 The HR Employee Lookup tool simplifies retrieving employee information through a chatbot interface, reducing manual lookups and improving accessibility for HR, managers, and third-party background checks.
 
-##Key Benefits
+## Key Benefits
 
 1. Minimizes manual effort by eliminating reliance on multiple systems.
 2. Provides easy access for non-technical users to retrieve structured data.
