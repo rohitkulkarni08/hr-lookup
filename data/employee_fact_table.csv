@@ -1,0 +1,13 @@
+Employee ID,Employee Name,Employee Address,Phone No,Project ID,Employee Start Date,Employment Status,Department,Designation,Reporting Manager ID,Last Promotion Date,Salary Grade
+101,John Doe,"123 Maple St, Springfield",555-123-4567,"{""P1"", ""P2""}",12/1/23,Active,IT,Software Engineer,110,1/15/24,SG-3
+102,Jane Smith,"456 Oak St, Metropolis",555-234-5678,"{""P3""}",1/10/24,Active,Marketing,Marketing Analyst,115,4/10/24,SG-2
+103,Alice Brown,"789 Pine St, Gotham",555-345-6789,"{""P2"", ""P4""}",2/18/24,Active,IT,Data Scientist,110,5/15/24,SG-4
+104,Bob Johnson,"321 Cedar St, Smallville",555-456-7890,"{""P5""}",3/20/24,On Leave,HR,HR Manager,120,6/20/24,SG-5
+105,Carol White,"987 Willow St, Star City",555-567-8901,"{""P1""}",6/15/24,Terminated,IT,Intern,110,,SG-1
+106,David Green,"321 Aspen St, Riverdale",555-678-9012,"{""P6""}",7/1/24,Active,Finance,Accountant,130,,SG-3
+107,Emma Black,"654 Birch St, Springfield",555-789-0123,"{""P2"", ""P4""}",10/20/23,Active,IT,System Analyst,110,8/1/24,SG-4
+110,Michael Johnson,"987 Cedar Ave, Metropolis",555-890-1234,"{""P2"", ""P1""}",5/1/22,Active,IT,Senior Developer,120,4/10/23,SG-5
+115,Sarah Williams,"123 Oak St, Gotham",555-901-2345,"{""P3""}",9/15/21,Active,Marketing,Senior Analyst,130,6/15/23,SG-4
+120,Patrick Simmons,"456 Maple Ave, Riverdale",555-012-3456,"{""P4"", ""P5""}",11/10/20,Active,HR,HR Director,130,1/10/23,SG-6
+130,Lisa Ray,"789 Willow St, Star City",555-234-5678,"{""P6""}",7/20/19,Active,Finance,CFO,131,2/20/23,SG-7
+131,Alex Morgan,"100 Executive Blvd, Capital City",555-987-6543,"{""P6""}",01/01/23,Active,Executive,CEO,,01/01/23,SG-7

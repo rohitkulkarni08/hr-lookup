@@ -1,0 +1,15 @@
+Project ID,Employee ID,Project Description,Project Allocation Start Date,Project Allocation End Date,Project Manager ID,Budget,Client Name
+P1,101,Website Redesign,1/15/24,5/30/24,110,50000,ABC Corp
+P2,101,Mobile App Development,6/1/24,Still Allocated,110,75000,XYZ Solutions
+P3,102,CRM Implementation,3/1/24,9/1/24,115,30000,DEF Ltd.
+P2,103,Mobile App Development,5/20/24,7/31/24,110,75000,XYZ Solutions
+P4,103,Cloud Migration,8/15/24,Still Allocated,120,100000,Tech Innovators
+P5,104,Data Analytics Platform Setup,4/25/24,10/15/24,120,90000,Fintech Inc.
+P1,105,Website Redesign,7/10/24,9/30/24,110,50000,ABC Corp
+P6,106,Financial Reporting Automation,7/1/24,Still Allocated,130,85000,Global Finance Group
+P4,107,Cloud Migration,10/20/23,12/20/24,120,100000,Tech Innovators
+P0,110,Customer Data Analysis,01/15/24,Still Allocated,115,58705,Global Solutions
+P0,115,Data Migration to Cloud,02/10/24,Still Allocated,110,56698,TechnoCorp
+P0,120,Customer Data Analysis,03/01/24,Still Allocated,130,58991,InnovateX
+P0,130,Cybersecurity Improvements,04/01/24,Still Allocated,115,64748,PrimeData
+P6,131,Corporate Strategic Initiative,01/15/24,Still Allocated,,500000,Board of Directors

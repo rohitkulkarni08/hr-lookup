@@ -1,0 +1,33 @@
+a. employee_fact_table
+1. EmployeeID: Unique identifier for each employee
+2. EmployeeName: Name of the employee
+3. EmployeeAddress: Address of the employee
+4. PhoneNo: Phone number of the employee
+5. ProjectID: List of Project IDs assigned to the employee
+6. EmployeeStartDate: Date employee started with the company
+7. EmploymentStatus: Employment status (e.g., Active, On Leave, Terminated)
+8. Department: Department of the employee (e.g., IT, HR)
+9. Designation: Job title of the employee
+10. ReportingManagerID: Employee ID of the reporting manager
+11. LastPromotionDate: Date of the employee's last promotion
+12. SalaryGrade: Salary grade level of the employee
+
+b. project_table
+1. ProjectID: Unique identifier for each project
+2. EmployeeID: ID of the employee assigned to the project
+3. ProjectDescription: Description of the project
+4. ProjectAllocationStartDate: Date the employee was allocated to the project
+5. ProjectAllocationEndDate: End date of the project allocation or 'Still Allocated'
+6. ProjectManagerID: ID of the project manager responsible for the project
+7. Budget: Budget allocated for the project
+8. ClientName: Name of the client for whom the project is executed
+
+c. progress_table
+1. FeedbackID: Unique identifier for each feedback entry
+2. EmployeeID: ID of the employee receiving feedback
+3. ManagerFeedbackDescription: Detailed feedback provided by the manager
+4. FeedbackDate: Quarter and year of the feedback (e.g., Q1 2024)
+5. FeedbackRating: Rating given by the manager (1-10 scale)
+6. GoalAchievementScore: Score for achieving set goals (1-10 scale)
+7. ProfessionalDevelopmentNotes: Notes on employee’s professional development
+8. FutureImprovementAreas: Areas for potential improvement
